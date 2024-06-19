@@ -12,12 +12,6 @@ Esta es una calculadora básica mejorada en Java, diseñada con una interfaz mod
 - **Temas Personalizables**: Cambia entre diferentes temas de interfaz.
 - **Manejo de Errores**: Gestión robusta de errores con mensajes amigables.
 
-## Capturas de Pantalla
-
-![Interfaz Principal](screenshots/main_interface.png)
-![Modo Científico](screenshots/scientific_mode.png)
-![Historial de Operaciones](screenshots/history.png)
-
 ## Uso
 
 1. **Descargar y Ejecutar**: Descarga el proyecto y ejecuta `main.java` para iniciar la calculadora.
